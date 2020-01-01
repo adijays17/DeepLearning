@@ -1,2 +1,2 @@
 # DeepLearning
-EECS495-Deeplearning
+EECS435-Deeplearning
